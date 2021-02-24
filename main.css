@@ -77,4 +77,56 @@ input {
 .travel_mainDiv p {
     margin-left: 20px;
 }
+.movie_head {
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
 
+.movie_head {
+    float: right;
+}
+
+.movie_text span {
+    color: gold;
+}
+
+.eviornment_li {
+    margin-top: 13px;
+}
+
+.eviornment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
